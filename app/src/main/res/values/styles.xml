@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:background">#E0E0E0</item>
+    </style>
+
+</resources>
